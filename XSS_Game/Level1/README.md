@@ -10,7 +10,6 @@ inside the vulnerable window or directly edit its URL bar.
 ## Mission Objective
 ```
 Inject a script to pop up a JavaScript alert() in the frame below.
-
 Once you show the alert you will be able to advance to the next level. 
 ```
 ## XSS_Level1
