@@ -18,3 +18,6 @@ Once you show the alert you will be able to advance to the next level.
 ```
 ![](/XSS_Game/Level1/Img/Xss_Level1.png)
 
+## Congratulation!
+![](/XSS_Game/Level1/Img/Result.png)
+
