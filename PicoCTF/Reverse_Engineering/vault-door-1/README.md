@@ -7,7 +7,7 @@ The source code for this vault is here
 
 Check the python scrypt.
 
-
+![](/PicoCTF/Reverse_Engineering/vault-door-1/Imgs/Run.png)
 ## Flag
 
 ```

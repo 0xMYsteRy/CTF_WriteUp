@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84220040-2364-4528-ab46-3e8614e59318" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-training/Imgs/SourceCode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-training/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-training/VaultDoorTraining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/asm1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/asm1/test.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-1/Imgs/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-3/VaultDoor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-3/exploit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-1/exploit.py" beforeDir="false" afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-1/exploit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-training/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-training/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nVCqCrT9yC4fOU9xd858KnVj0G" />
@@ -31,21 +42,29 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-3" />
+      <recent name="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-1/Imgs" />
+      <recent name="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/asm1" />
+      <recent name="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-1" />
       <recent name="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-training /Imgs" />
-      <recent name="$PROJECT_DIR$/PicoCTF/Reverse_Engineering/vault-door-training " />
-      <recent name="$PROJECT_DIR$/XSS_Game/Level2/Img" />
-      <recent name="$PROJECT_DIR$/XSS_Game/Level2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +77,8 @@
       <updated>1611466059893</updated>
       <workItem from="1611466061031" duration="333000" />
       <workItem from="1611509064224" duration="3356000" />
-      <workItem from="1612030452354" duration="404000" />
+      <workItem from="1612030452354" duration="596000" />
+      <workItem from="1612334343595" duration="6193000" />
     </task>
     <servers />
   </component>
@@ -70,10 +90,30 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

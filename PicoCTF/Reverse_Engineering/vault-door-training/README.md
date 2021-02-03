@@ -6,7 +6,7 @@ View the sourcecode. Nothing fancy here.
 
 ![](/PicoCTF/Reverse_Engineering/vault-door-training/Imgs/SourceCode.png)
 
-### Flag:
+## Flag:
 ```
 picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}
 ```
